@@ -1,0 +1,82 @@
+<employee_data>
+    <employee>
+        <id>1</id>
+        <name>John Doe</name>
+        <position>Software Engineer</position>
+        <department>Engineering</department>
+        <salary>80000</salary>
+        <hire_date>2022-01-15</hire_date>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <position>UX Designer</position>
+        <department>Design</department>
+        <salary>75000</salary>
+        <hire_date>2022-02-20</hire_date>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Mike Johnson</name>
+        <position>Marketing Specialist</position>
+        <department>Marketing</department>
+        <salary>70000</salary>
+        <hire_date>2021-11-10</hire_date>
+    </employee>
+    <employee>
+        <id>4</id>
+        <name>Amy Brown</name>
+        <position>HR Manager</position>
+        <department>Human Resources</department>
+        <salary>90000</salary>
+        <hire_date>2021-08-05</hire_date>
+    </employee>
+    <employee>
+        <id>5</id>
+        <name>Chris Wilson</name>
+        <position>Financial Analyst</position>
+        <department>Finance</department>
+        <salary>85000</salary>
+        <hire_date>2022-03-25</hire_date>
+    </employee>
+    <employee>
+        <id>6</id>
+        <name>Emily Davis</name>
+        <position>Project Manager</position>
+        <department>Project Management</department>
+        <salary>95000</salary>
+        <hire_date>2021-09-18</hire_date>
+    </employee>
+    <employee>
+        <id>7</id>
+        <name>David White</name>
+        <position>System Analyst</position>
+        <department>Engineering</department>
+        <salary>82000</salary>
+        <hire_date>2022-04-12</hire_date>
+    </employee>
+    <employee>
+        <id>8</id>
+        <name>Susan Miller</name>
+        <position>Quality Assurance Specialist</position>
+        <department>Engineering</department>
+        <salary>78000</salary>
+        <hire_date>2021-10-30</hire_date>
+    </employee>
+    <employee>
+        <id>9</id>
+        <name>Tom Clark</name>
+        <position>Customer Support Representative</position>
+        <department>Customer Support</department>
+        <salary>68000</salary>
+        <hire_date>2022-05-05</hire_date>
+    </employee>
+    <employee>
+        <id>10</id>
+        <name>Lisa Turner</name>
+        <position>Sales Manager</position>
+        <department>Sales</department>
+        <salary>92000</salary>
+        <hire_date>2021-12-22</hire_date>
+    </employee>
+</employee_data>
